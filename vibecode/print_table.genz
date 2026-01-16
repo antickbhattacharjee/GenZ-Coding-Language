@@ -1,0 +1,5 @@
+lock num=askinnumbruh("Enter number: ")
+lock i=1
+spam i til 10:
+    yeet(num,"x",i,"=",num*i)
+    lock i=i+1

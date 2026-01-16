@@ -1,0 +1,28 @@
+# Test GenZ type conversion functions
+lock x = numbruh("42")
+yeet(x)
+
+lock y = decimaldrip("3.14")
+yeet(y)
+
+lock z = textvibe(100)
+yeet(z)
+
+lock mylist = squad([1, 2, 3])
+yeet(mylist[1])
+
+lock mydict = mapfr({"key": "value"})
+yeet(mydict)
+
+yeet(truetrip(1))
+yeet(nahbruh())
+
+# Test input functions
+lock name = askintextvibe("What's your name?")
+yeet("Hello, " + name)
+
+lock age = askinnumbruh("How old are you?")
+yeet("You are " + textvibe(age) + " years old")
+
+lock height = askindeckydrip("What's your height in meters?")
+yeet("Your height is " + textvibe(height))

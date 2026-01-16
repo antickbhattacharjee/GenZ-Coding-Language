@@ -1,0 +1,16 @@
+# variable declaration
+# lock x = 10
+# lock y = 25
+
+# output
+# yeet(x)
+# yeet(y)
+# yeet(x + y)
+
+# input + output
+lock age = askinnumbruh("your age?")
+yeet(age + 5)
+
+# another variable
+# lock mood = "vibing"
+# yeet("today ur mood is " + mood)

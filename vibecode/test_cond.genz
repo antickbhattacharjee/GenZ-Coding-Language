@@ -1,0 +1,7 @@
+lock x = 3
+
+nocap(x > 5):
+    yeet("Greater")
+cap:
+    yeet("Not greater")
+endvibe

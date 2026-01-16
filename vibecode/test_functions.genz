@@ -1,0 +1,3 @@
+vibe greet(name):
+    yeet("Hello " + name)
+greet("Antick")

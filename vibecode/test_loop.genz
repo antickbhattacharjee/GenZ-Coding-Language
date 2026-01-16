@@ -1,0 +1,15 @@
+lock i = 1
+
+spam i til 3:
+    yeet(i)
+
+spam j from 1 to 5 drip 2:
+    yeet(j)
+
+spam i < 5:
+    yeet(i)
+    lock i = i + 1
+
+spam always:
+    yeet("hi")
+    nospam
