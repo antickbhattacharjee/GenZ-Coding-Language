@@ -251,8 +251,12 @@ Follow these steps to run a GenZLang program:
    hello.genz
 2. Open a terminal in the project root directory
 3. Run the program using the kickoff script:
+
    ./kickoff <path_to_program_file>
+
 Example:
+    
     ./kickoff vibecode/hello.genz
-4. Press Enter
-5. Your GenZLang code will now be parsed and executed line by line.
+5. Press Enter
+6. Your GenZLang code will now be parsed and executed line by line.
+
