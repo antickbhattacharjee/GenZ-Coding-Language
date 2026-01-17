@@ -243,7 +243,16 @@ It teaches **real fundamentals** in a friendly way.
 
 ## Execution Process
 
-- Save the program file as ".genz"
-- From root file type
-    ./kickoff <program_name_with_location>
-- Press Enter
+Follow these steps to run a GenZLang program:
+
+1. Write your program and save it with the `.genz` extension  
+   Example:
+   ```text
+   hello.genz
+2. Open a terminal in the project root directory
+3. Run the program using the kickoff script:
+   ./kickoff <path_to_program_file>
+Example:
+    ./kickoff vibecode/hello.genz
+4. Press Enter
+5. Your GenZLang code will now be parsed and executed line by line.
