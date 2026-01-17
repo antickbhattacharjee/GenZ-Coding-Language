@@ -257,6 +257,7 @@ Follow these steps to run a GenZLang program:
 Example:
     
     ./kickoff vibecode/hello.genz
-5. Press Enter
-6. Your GenZLang code will now be parsed and executed line by line.
+4. Press Enter
+5. Your GenZLang code will now be parsed and executed line by line.
+
 
